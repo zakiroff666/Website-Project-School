@@ -356,15 +356,6 @@ main {
   font-size: 30px;
   font-weight: 900;
   color: #fff;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #0fa,
-      0 0 82px #0fa,
-      0 0 92px #0fa,
-      0 0 102px #0fa,
-      0 0 151px #0fa;
   font-family: 'Roboto Slab', serif;
 }
 .bac__text_1{
@@ -373,15 +364,6 @@ main {
   padding-top: 55px;
   font-size: 30px;
   font-weight: 900;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #5271ff,
-      0 0 82px #5271ff,
-      0 0 92px #5271ff,
-      0 0 102px #5271ff,
-      0 0 151px #5271ff;
   font-family: 'Roboto Slab', serif;
 }
 .bac__text_2{
@@ -390,15 +372,6 @@ main {
   padding-top: 55px;
   font-size: 30px;
   font-weight: 900;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #5271ff,
-      0 0 82px #5271ff,
-      0 0 92px #5271ff,
-      0 0 102px #5271ff,
-      0 0 151px #5271ff;
   font-family: 'Roboto Slab', serif;
 }
 .bac__text_3{
@@ -407,15 +380,6 @@ main {
   padding-top: 55px;
   font-size: 30px;
   font-weight: 900;
-  text-shadow:
-      0 0 7px #fff,
-      0 0 10px #fff,
-      0 0 21px #fff,
-      0 0 42px #5271ff,
-      0 0 82px #5271ff,
-      0 0 92px #5271ff,
-      0 0 102px #5271ff,
-      0 0 151px #5271ff;
   font-family: 'Roboto Slab', serif;
 }
 @keyframes fadeInGlow {/* dobavil*/
@@ -425,11 +389,8 @@ main {
     100% {
         text-shadow:
       0 0 7px #fff,
-      0 0 10px #fff,
       0 0 21px #fff,
       0 0 42px #5271ff,
-      0 0 82px #5271ff,
-      0 0 92px #5271ff,
       0 0 102px #5271ff,
       0 0 151px #5271ff;
     }
