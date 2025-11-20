@@ -3,4 +3,4 @@
 - статус : дорабатывается
 - сроки : январь
   
-**рабочая ссылка**https://zakiroff666.github.io/Website-Project-School/
+**рабочая ссылка** : https://zakiroff666.github.io/Website-Project-School/
