@@ -10,3 +10,4 @@
 - CSS3
 - JavaScript
 - JQuery
+- GIT
