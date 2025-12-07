@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+const head = document.querySelector("head");
+head.innerHTML =
+`
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-widht, initial-scale=1.0">
@@ -10,15 +10,5 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
-    <title>/</title>
-</head>
-<body>
-
-<div class="bac__4">
-    <div class="bac__text__4">
-        <p>Те кто жил в параллельном мире ,построившие обитель душ и захватившие в будущем и этот мир. Самые могучие и сильнейшие существа во всех вселенных. Они пришли со временем не к гуманизму а к обратному ,и полному уничтожению и порабощению всех и вся. </p>
-    </div>
-</div>
-
-</body>
-</html>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+`;
